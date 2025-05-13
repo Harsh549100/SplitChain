@@ -60,7 +60,7 @@
   }
 ]
 
-**🚀 Usage**
+## 🚀 Usage
 
 - Connect your wallet (Metamask or Coinbase Wallet).
 - Create a group and add participants by wallet addresses.
@@ -68,19 +68,19 @@
 - Users can pay their share directly using stablecoins.
 - Check transaction history and analytics.
 
-**📈 Roadmap**
+## 📈 Roadmap
 
 - Multi-currency support (USDC, DAI).
 - Enhanced security features.
 - Improved gas optimization.
 
-🌟 **Support**  
+## 🌟 Support  
 If you encounter any issues while using SplitChain, have questions, or want to suggest new features, feel free to reach out:
 
-📧 Email: Shrivastavaharsh5491@gmail.com  
-💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-shrivastava-40b240313/)  
+- 📧 Email: [Shrivastavaharsh5491@gmail.com](mailto:Shrivastavaharsh5491@gmail.com)  
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-shrivastava-40b240313/)  
 
-**📄 MIT License**
+## 📄 MIT License
 
 MIT License  
 

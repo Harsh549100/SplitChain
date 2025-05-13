@@ -60,6 +60,8 @@
   }
 ]
 
+# SplitChain - Group Expense Splitter
+
 ## 🚀 Usage
 
 - Connect your wallet (Metamask or Coinbase Wallet).
@@ -74,9 +76,32 @@
 - Enhanced security features.
 - Improved gas optimization.
 
-## 🌟 Support  
+## 🌟 Support
 If you encounter any issues while using SplitChain, have questions, or want to suggest new features, feel free to reach out:
 
-- 📧 Email: [Shrivastavaharsh5491@gmail.com](mailto:Shrivastavaharsh5491@gmail.com)  
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-shrivastava-40b240313/)  
+- Email: Shrivastavaharsh5491@gmail.com
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-shrivastava-40b240313/)
 
+## 📄 MIT License
+
+The MIT License
+
+Copyright (c) 2025 Harsh
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the "Software"), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, and distribute the Software, provided that any  
+commercial use, sublicense, or sale of the Software requires prior written  
+permission from the copyright holder.
+
+The above copyright notice and this permission notice shall be included in all  
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
+SOFTWARE.
